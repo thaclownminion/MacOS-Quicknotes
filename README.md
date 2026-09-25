@@ -22,9 +22,9 @@ Press on the "Recents" on the bottom left and press the "Quit" button on the top
 
 # Credits:
 Creator: Apophis
-For suggestions and bugs please add an issue [here](https://github.com/thaclownminion/Descreen/issues)
 
-E-mail: apophisdevs@protonmail.com
+For suggestions and bugs please add an issue [here](https://github.com/thaclownminion/Descreen/issues)
+or contact me through my e-mail: apophisdevs@protonmail.com
 
 Support me to be able to expand this project and other apps:
 
