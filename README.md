@@ -22,7 +22,7 @@ Press on the "Recents" on the bottom left and press the "Quit" button on the top
 
 # Credits:
 Creator: Apophis
-Fus suggestions and bugs please add an issue [here](https://github.com/thaclownminion/Descreen/issues)
+For suggestions and bugs please add an issue [here](https://github.com/thaclownminion/Descreen/issues)
 
 E-mail: apophisdevs@protonmail.com
 
