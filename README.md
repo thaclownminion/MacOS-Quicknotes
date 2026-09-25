@@ -24,7 +24,7 @@ Press on the "Recents" on the bottom left and press the "Quit" button on the top
 Creator: Apophis
 Fus suggestions and bugs please add an issue [here](https://github.com/thaclownminion/Descreen/issues)
 
-(This app used to be called "eye care")
+E-mail: apophisdevs@protonmail.com
 
 Support me to be able to expand this project and other apps:
 
